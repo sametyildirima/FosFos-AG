@@ -1,10 +1,11 @@
 -Components-
 SBR3516 3 Phase Bridge Rectifier
 IGBT RJH60F7ADPF or TLP250
-680uF capacitor
-470uF capacitor
-2.5mH inductor
+12*100uF capacitor 350 400V
+toroid+10meter cable for inductor
 Fast Recovery Diode DSEI30-12A
-Pertinaks
+2*Pertinaks
 Heatsinks for IGBT and Diode
-Kablo girişi için aparatlar
+Arduino
+6*Fuse
+Socket for input and outputs
