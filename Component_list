@@ -1,6 +1,7 @@
 -Components-
 SBR3516 3 Phase Bridge Rectifier
-IGBT fgh20n60 or TLP250
+IGBT FGA25N120 
+TLP250 Optocoupler
 12*100uF capacitor 350 400V
 toroid+10meter cable for inductor
 Fast Recovery Diode DSEI30-12A
